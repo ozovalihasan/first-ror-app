@@ -1,6 +1,6 @@
 # first-ror-app
 
-This is the first project in the Ruby on Rails course at [Microverse](https://www.microverse.org/) - @microverseinc . Creating a bot for any platform for any purpose is the purpose of this capstone project.
+This is the first project in the Ruby on Rails course at [Microverse](https://www.microverse.org/) - @microverseinc .
 
 ![screenshot-first-ror-app](screenshot.png)
 
