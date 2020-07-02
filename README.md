@@ -26,6 +26,8 @@ The task is create a [basic app by using Ruby on Rails](https://www.theodinproje
 
 - Install [Nodejs](https://nodejs.org/en/download/)
 
+- Run 'rails db:migrate'
+
 - Run `rails server`
 
 - Go to your web browser
